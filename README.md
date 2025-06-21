@@ -39,6 +39,11 @@ A rule-based event planning assistant built with Python + Streamlit that helps u
 
 
 ---
+## 🎥 Demo Video
+
+📺 [Click to watch the demo](https://drive.google.com/file/d/1BU8pG56dSFu7RSFEk9jDM-bdP9Mf7r5a/view?usp=drive_link)
+
+---
 
 ## 🧮 Logic Overview
 
@@ -114,6 +119,7 @@ This project was developed as a rule-based simulation of an intelligent assistan
 2. Python for logic
 
 3. Manual JSON files for data simulation
+
 
 
 
