@@ -1,0 +1,56 @@
+[
+ {
+   "name":"Wishco",
+   "location":"Jaipur",
+   "rating":4.6,
+   "price":100000,
+   "event_types":["wedding"]
+   
+},
+{
+   "name":"Viah",
+   "location":"Delhi",
+   "rating":4.9,
+   "price":120000,
+   "event_types":["wedding"]
+   
+},
+
+{
+   "name":"Metalic Elegance Ring Birthday Decor",
+   "location":"Jaipur",
+   "rating":4.4,
+   "price":5000,
+   "event_types":["birthday"]
+   
+},
+
+{
+   "name":"Shimmery Stylish Golden Birthday Decor",
+   "location":"Delhi",
+   "rating":4.3,
+   "price":6500,
+   "event_types":["birthday"]
+   
+},
+
+{
+   "name":"Shagun Decor",
+   "location":"Delhi",
+   "rating":4.1,
+   "price":30000,
+   "event_types":["Wedding"]
+   
+},
+{
+   "name":"Paanigrah Decor",
+   "location":"Jaipur",
+   "rating":4.2,
+   "price":40000,
+   "event_types":["Wedding"]
+   
+}
+
+
+
+]

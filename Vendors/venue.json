@@ -1,0 +1,60 @@
+[
+ {
+  "name":"The Stardom Resort",
+  "location":"Jaipur",
+  "rating":4.6,
+  "price" : 200000,
+  "event_types":["wedding","birthday"]
+},
+ {
+  "name":"Maan Palace",
+  "location":"Jaipur",
+  "rating":4.8,
+  "price" : 250000,
+  "event_types":["wedding","birthday"]
+},
+ {
+  "name":"The Fort",
+  "location":"Jaipur",
+  "rating":4.3,
+  "price" : 150000,
+  "event_types":["wedding","birthday"]
+},
+ {
+  "name":"RockLand Hotel",
+  "location":"Delhi",
+  "rating":4.8,
+  "price" : 200000,
+  "event_types":["wedding","birthday"]
+},
+ {
+  "name":"Royal Palace",
+  "location":"Delhi",
+  "rating":4.5,
+  "price" : 250000,
+  "event_types":["wedding","birthday"]
+},
+ {
+  "name":"Mittal Paradise",
+  "location":"Jaipur",
+  "rating":4.2,
+  "price" : 50000,
+  "event_types":["wedding","birthday"]
+},
+
+ {
+  "name":"Agrawal Banquete Hall",
+  "location":"Jaipur",
+  "rating":4.4,
+  "price" : 60000,
+  "event_types":["wedding","birthday"]
+},
+
+ {
+  "name":"Shehnai Garden",
+  "location":"Delhi",
+  "rating":4.3,
+  "price" : 60000,
+  "event_types":["wedding","birthday"]
+}
+]

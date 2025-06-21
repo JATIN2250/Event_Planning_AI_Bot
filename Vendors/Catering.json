@@ -1,0 +1,50 @@
+[
+ {
+  "name":"DV Caters",
+  "rating" : 4.5,
+  "price": 1200,
+  "location":"Jaipur",
+  "event_types":["wedding","birthday"]
+ },
+ {
+  "name":"Shree Caterers",
+  "rating" : 4.6,
+  "price": 1400,
+  "location":"Jaipur",
+  "event_types":["wedding","birthday"]
+ },
+ {
+  "name":"Diva Catering",
+  "rating" : 4.7,
+  "price": 1400,
+  "location":"Delhi",
+  "event_types":["wedding","birthday"]
+ },
+ {
+  "name":"Shri Ram Caterers",
+  "rating" : 4.8,
+  "price": 1200,
+  "location":"Delhi",
+  "event_types":["wedding","birthday"]
+ },
+
+ {
+  "name":"Swastik Caters",
+  "rating" : 4.0,
+  "price": 600,
+  "location":"Jaipur",
+  "event_types":["wedding","birthday"]
+ },
+
+ {
+  "name":"Mohan Caterers",
+  "rating" : 4.1,
+  "price": 650,
+  "location":"Delhi",
+  "event_types":["wedding","birthday"]
+ }
+
+
+
+
+]
