@@ -14,7 +14,7 @@ if "step" not in st.session_state:
 if "input" not in st.session_state:
     st.session_state.input = ""
 
-st.title("🤖 Event Planner Assistant")
+st.title("🤖 Event Planner Assistant Bot")
 
 # Chat input form (clears on submit)
 with st.form(key="chat_form", clear_on_submit=True):
